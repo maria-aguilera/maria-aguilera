@@ -9,7 +9,7 @@
 </div>
 
 <br>
-</br>
+
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaaguileragarcia/)](https://www.linkedin.com/in/mariaaguileragarcia/)
