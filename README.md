@@ -8,13 +8,15 @@
 <br>
 </br>
 <div align="center"> 
-  
-[![Linkedin Badge](https://img.shields.io/badge/-mariaaguileragarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaaguileragarcia/)](https://www.linkedin.com/in/mariaaguileragarcia/)
-[![Gmail Badge](https://img.shields.io/badge/-mariaaguilera979797@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariaaguilera979797@gmail.com)](mailto:mariaaguilera979797@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio%20Website%20-8A2BE2?style=flat-square&logo=Homeassistant&logoColor=white&link=https://maria-aguilera.github.io/)](https://maria-aguilera.github.io/)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaaguileragarcia/)](https://www.linkedin.com/in/mariaaguileragarcia/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/maria-aguilera)](https://www.github.com/maria-aguilera)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio%20Website%20-8A2BE2?style=flat&logo=Homeassistant&logoColor=white&link=https://maria-aguilera.github.io/)](https://maria-aguilera.github.io/)
+[![Tea](https://img.shields.io/badge/-Buy_me_a_coffee-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://coff.ee/mariaaguilera)](https://coff.ee/mariaaguilera)
+[![Email](https://img.shields.io/badge/Email%20me%20-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mariaaguilera979797@gmail.com)
+
 
 </div>
-
 
 
 
