@@ -1,15 +1,22 @@
 <h1 align="center" style="background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent; text-shadow: 0px 2px 4px rgba(0,0,0,0.2); font-size: 3em;">
   Hi there, I'm María 👋👩‍💻
 </h1>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<d style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: nowrap;">
   <!-- Left GIF -->
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog GIF" style="width: 350px; height: auto;">
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog GIF" style="width: 350px; height: auto;">
+  </div>
+
   <!-- Arrow Sticker -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjg2MnI2dzh2YThqMXdpMmlwdGZqd3RhbGQweDd2eGczNG0wc3cwYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OZFMTlKGk9si5WKNSy/giphy.gif" alt="Animated arrow sticker" style="width: 320px; height: auto;">
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjg2MnI2dzh2YThqMXdpMmlwdGZqd3RhbGQweDd2eGczNG0wc3cwYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OZFMTlKGk9si5WKNSy/giphy.gif" alt="Arrow GIF" style="width: 320px; height: auto;">
+  </div>
 
   <!-- Right GIF -->
-  <img src="images/typing6.gif" alt="Me and the dog typing" style="width: 350px; height: auto;">
-</div>
+  <div style="flex-shrink: 0;">
+    <img src="images/typing6.gif" alt="Me and the dog typing" style="width: 350px; height: auto;">
+  </div>
+</d
 <br>
 <br>
 <p align="center">
