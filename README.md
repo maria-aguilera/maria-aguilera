@@ -1,13 +1,19 @@
-# Hi there, I am María 👋 👩‍💻
+<h1 align="center" style="background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent; text-shadow: 0px 2px 4px rgba(0,0,0,0.2); font-size: 3em;">
+  Hi there, I'm María 👋👩‍💻
+</h1>
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Left GIF -->
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog GIF" style="width: 350px; height: auto;">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog GIF" width="305" height="200">
-</p>
+  <!-- Arrow Sticker -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjg2MnI2dzh2YThqMXdpMmlwdGZqd3RhbGQweDd2eGczNG0wc3cwYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OZFMTlKGk9si5WKNSy/giphy.gif" alt="Animated arrow sticker" style="width: 320px; height: auto;">
 
-<p align="center">
-  <img src="images/typing.gif" width="305" alt="Me and the dog typing">
-</p>
-
+  <!-- Right GIF -->
+  <img src="images/typing6.gif" alt="Me and the dog typing" style="width: 350px; height: auto;">
+</div>
+<br>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/mariaaguileragarcia/">
     <img src="https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -34,3 +40,5 @@
 * 🤖 Machine Learning  
 * 📊 Data Science  
 * 🧹 Data Cleaning
+
+
