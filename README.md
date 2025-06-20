@@ -1,15 +1,17 @@
 <h1 align="center" style="background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent; text-shadow: 0px 2px 4px rgba(0,0,0,0.2); font-size: 3em;">
   Hi there, I'm María 👋👩‍💻
 </h1>
-<table align="center">
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td><img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300px"></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjg2MnI2dzh2YThqMXdpMmlwdGZqd3RhbGQweDd2eGczNG0wc3cwYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OZFMTlKGk9si5WKNSy/giphy.gif" width="100px"></td>
     <td><img src="images/typing6.gif" width="300px"></td>
   </tr>
 </table>
-<br>
-<br>
+
+<br><br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mariaaguileragarcia/">
     <img src="https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -36,5 +38,3 @@
 * 🤖 Machine Learning  
 * 📊 Data Science  
 * 🧹 Data Cleaning
-
-
