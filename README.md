@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm María 👋👩‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300px">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjg2MnI2dzh2YThqMXdpMmlwdGZqd3RhbGQweDd2eGczNG0wc3cwYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OZFMTlKGk9si5WKNSy/giphy.gif" width="100px">
-  <img src="images/typing6.gif" width="300px">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" height="150px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjg2MnI2dzh2YThqMXdpMmlwdGZqd3RhbGQweDd2eGczNG0wc3cwYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OZFMTlKGk9si5WKNSy/giphy.gif" height="150px">
+  <img src="images/typing6.gif" height="150px">
 </p>
 <div align="center">
   
